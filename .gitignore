@@ -1,0 +1,9 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/PokemonCompatibility/PokemonCompatibilityAPI/bin
+/PokemonCompatibility/.vs/PokemonCompatibility
+/PokemonCompatibility/PokemonCompatibilityAPI/obj
+/PokemonCompatibility/PokemonCompatibilityAPI/Properties
+/PokemonCompatibility/PokemonCompatibilityFunctions/Properties
