@@ -1,0 +1,2 @@
+# pokemon-compatibility
+ポケモンの弱点を教えてくれるAPIとAlexaで呼ばれているFunctions
